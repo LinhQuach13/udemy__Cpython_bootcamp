@@ -7,7 +7,7 @@ city= input("What city did you grow up in? \n")
 #3. Ask the user for the name of a pet.
 pet_name= input("Enter the name of your pet. \n")
 
-#Add s to color
+#Add s to pet name
 s= "s"
 
 #ask user for first Name
