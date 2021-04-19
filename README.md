@@ -1,1 +1,5 @@
-This is a repository for projects completed from The Complete Python Bootcamp from Udemy.
+## Description:
+Completed projects from Udemy: The Complete Python Bootcamp by Angela Yu
+
+## Language: 
+Python
