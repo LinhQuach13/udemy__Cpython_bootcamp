@@ -15,12 +15,12 @@ Completed projects/coding challenges from Udemy: The Complete Python Bootcamp by
 Python
 
 ## Band Name Generator:
-Band name is generated using the user's input of a city and a pet name
+Band name is generated using the user's input of a city and a pet name.
 
 ## BMI Calculator:
 - This is a program that calculates the Body Mass Index (BMI) from a user's weight and height.
 - The BMI is a measure of some's weight taking into account their height. e.g. If a tall person and a short person both weigh the same amount, the short person is usually more overweight.
-- The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
+- The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m).
 
 ## Life in Weeks:
 - This a program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old. 
