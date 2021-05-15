@@ -8,7 +8,7 @@ Completed projects/coding challenges from Udemy: The Complete Python Bootcamp by
 * [Band Name Generator](#band-name-generator)
 * [BMI Calculator](#bmi-calculator)
 * [Life in Weeks](#life-in-weeks)
-* [Acknowlegdments](#acknowledgment)
+* [Acknowlegdements](#acknowledegment)
 
 
 ## Language: 
