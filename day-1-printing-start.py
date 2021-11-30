@@ -15,4 +15,7 @@ print("Hello" + " " + "Angela")
 
 
 #input () function
-input("What is your name?")
+# input("What is your name?")
+
+#print with input() function
+print ("Hello" + input("What is your name?") + "!")
